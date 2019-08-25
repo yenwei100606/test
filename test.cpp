@@ -16,6 +16,7 @@ int main()
 	cout << "*ptr=" << *ptr << endl;		//間接運算子 
 	cout << "ptr=" << ptr << endl; 			//指標內容
 	cout << "ptr位址=" << &ptr << endl;
+	cout << "Branch";
 	system("pause");
 	return 0;
 } 
